@@ -1,4 +1,4 @@
-# -DiscripberJS
+# -DiscriberJS
 - 1 <i class="entypo-lamp"></i>[Philosofie](#Philosofie) 
 - 2 <i class="fontawesome-sitemap"></i>[File- und Ordnerstruktur](#Ordnerstruktur)
 - 3 <i class="entypo-vcard"></i>[Deklaration von HTML-Module-Funktionen](#Deklaration)
